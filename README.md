@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+        A feature to add descriptions to the tasks would be a nice improvement.
 
 ## Video Walkthrough
 
@@ -33,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Not many challenges while making this app. It was fairly fun and straightforward.
 
 ## License
 
